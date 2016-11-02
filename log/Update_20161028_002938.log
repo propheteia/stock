@@ -1,0 +1,12 @@
+2016-10-28 00:29:53 Verify 2584 MainThread DEBUG:Start
+2016-10-28 00:30:11 Verify 2584 MainThread DEBUG:0
+2016-10-28 00:30:11 Verify 2584 MainThread DEBUG:Start
+2016-10-28 00:30:26 Verify 2584 MainThread DEBUG:1
+2016-10-28 00:30:26 Verify 2584 MainThread DEBUG:Start
+2016-10-28 00:30:43 Verify 2584 MainThread DEBUG:2
+2016-10-28 00:30:43 Verify 2584 MainThread DEBUG:LOG BEGIN
+2016-10-28 00:30:43 Verify 2584 MainThread INFO:######## Verify Result (Total 1 minutes)########
+2016-10-28 00:30:43 Verify 2584 MainThread INFO:Stock Passed:92
+2016-10-28 00:30:43 Verify 2584 MainThread INFO:Stock Not Passed:0
+2016-10-28 00:30:43 Verify 2584 MainThread INFO:Stock Not Passed Duo To Network:1
+2016-10-28 00:30:43 Verify 2584 MainThread INFO:['600656']

@@ -1,0 +1,5 @@
+2016-10-28 00:48:18 Verify 10304 MainThread INFO:######## Verify Result (Total 0 minutes)########
+2016-10-28 00:48:18 Verify 10304 MainThread INFO:Stock Passed:23
+2016-10-28 00:48:18 Verify 10304 MainThread INFO:Stock Not Passed:0
+2016-10-28 00:48:18 Verify 10304 MainThread INFO:Stock Not Passed Duo To Network:1
+2016-10-28 00:48:18 Verify 10304 MainThread INFO:['600656']

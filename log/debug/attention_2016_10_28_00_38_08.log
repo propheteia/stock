@@ -1,0 +1,4 @@
+2016-10-28 00:38:13 ATTENTION 4872 Thread-7 DEBUG:######## Stock:600656 Finished: Network Problem ########
+2016-10-28 00:38:27 ATTENTION 2008 Thread-21 DEBUG:######## Stock:600656 Finished: Network Problem ########
+2016-10-28 00:38:36 ATTENTION 2428 MainThread INFO:######## Start to Verified Failed Stock Once More
+2016-10-28 00:38:36 ATTENTION 2428 MainThread INFO:['600656']

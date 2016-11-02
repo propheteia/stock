@@ -1,0 +1,5 @@
+2016-10-28 08:20:56 Verify 1976 MainThread INFO:######## Verify Result (Total 0 minutes)########
+2016-10-28 08:20:56 Verify 1976 MainThread INFO:Stock Passed:0
+2016-10-28 08:20:56 Verify 1976 MainThread INFO:Stock Not Passed:14
+2016-10-28 08:20:56 Verify 1976 MainThread INFO:['600661', '601238', '600748', '603885', '002080', '002141', '002597', '300426', '300381', '300461', '300026', '300465', '300326', '300488']
+2016-10-28 08:20:56 Verify 1976 MainThread INFO:Stock Not Passed Duo To Network:0

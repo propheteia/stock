@@ -1,0 +1,42 @@
+2016-10-28 08:20:42 ATTENTION 1976 MainThread WARNING:######## Stock:600661 Finished: NetworkProblem ########
+2016-10-28 08:20:42 ATTENTION 1976 MainThread WARNING:######## Stock:600748 Finished: NetworkProblem ########
+2016-10-28 08:20:42 ATTENTION 1976 MainThread WARNING:######## Stock:603885 Finished: NetworkProblem ########
+2016-10-28 08:20:42 ATTENTION 1976 MainThread WARNING:######## Stock:601238 Finished: NetworkProblem ########
+2016-10-28 08:20:42 ATTENTION 1976 MainThread WARNING:######## Stock:002080 Finished: NetworkProblem ########
+2016-10-28 08:20:42 ATTENTION 1976 MainThread WARNING:######## Stock:002141 Finished: NetworkProblem ########
+2016-10-28 08:20:42 ATTENTION 1976 MainThread WARNING:######## Stock:002597 Finished: NetworkProblem ########
+2016-10-28 08:20:42 ATTENTION 1976 MainThread WARNING:######## Stock:300426 Finished: NetworkProblem ########
+2016-10-28 08:20:43 ATTENTION 1976 MainThread WARNING:######## Stock:300381 Finished: NetworkProblem ########
+2016-10-28 08:20:43 ATTENTION 1976 MainThread WARNING:######## Stock:300461 Finished: NetworkProblem ########
+2016-10-28 08:20:43 ATTENTION 1976 MainThread WARNING:######## Stock:300465 Finished: NetworkProblem ########
+2016-10-28 08:20:43 ATTENTION 1976 MainThread WARNING:######## Stock:300026 Finished: NetworkProblem ########
+2016-10-28 08:20:43 ATTENTION 1976 MainThread WARNING:######## Stock:300326 Finished: NetworkProblem ########
+2016-10-28 08:20:43 ATTENTION 1976 MainThread WARNING:######## Stock:300488 Finished: NetworkProblem ########
+2016-10-28 08:20:46 ATTENTION 8168 Thread-3 DEBUG:Stock:600661 Not Pass -- Different Length
+2016-10-28 08:20:46 ATTENTION 8168 Thread-3 DEBUG:######## Stock:600661 Finished: Not Pass ########
+2016-10-28 08:20:46 ATTENTION 13296 Thread-2 DEBUG:Stock:601238 Not Pass -- Different Length
+2016-10-28 08:20:46 ATTENTION 13296 Thread-2 DEBUG:######## Stock:601238 Finished: Not Pass ########
+2016-10-28 08:20:46 ATTENTION 7040 Thread-4 DEBUG:Stock:600748 Not Pass -- Different Length
+2016-10-28 08:20:46 ATTENTION 7040 Thread-4 DEBUG:######## Stock:600748 Finished: Not Pass ########
+2016-10-28 08:20:47 ATTENTION 14056 Thread-1 DEBUG:Stock:603885 Not Pass -- Different Length
+2016-10-28 08:20:47 ATTENTION 14056 Thread-1 DEBUG:######## Stock:603885 Finished: Not Pass ########
+2016-10-28 08:20:49 ATTENTION 8168 Thread-3 DEBUG:Stock:002080 Not Pass -- Different Length
+2016-10-28 08:20:49 ATTENTION 8168 Thread-3 DEBUG:######## Stock:002080 Finished: Not Pass ########
+2016-10-28 08:20:50 ATTENTION 13296 Thread-2 DEBUG:Stock:002141 Not Pass -- Different Length
+2016-10-28 08:20:50 ATTENTION 13296 Thread-2 DEBUG:######## Stock:002141 Finished: Not Pass ########
+2016-10-28 08:20:50 ATTENTION 7040 Thread-4 DEBUG:Stock:002597 Not Pass -- Different Length
+2016-10-28 08:20:50 ATTENTION 7040 Thread-4 DEBUG:######## Stock:002597 Finished: Not Pass ########
+2016-10-28 08:20:50 ATTENTION 14056 Thread-1 DEBUG:Stock:300426 Not Pass -- Different Length
+2016-10-28 08:20:50 ATTENTION 14056 Thread-1 DEBUG:######## Stock:300426 Finished: Not Pass ########
+2016-10-28 08:20:53 ATTENTION 8168 Thread-3 DEBUG:Stock:300381 Not Pass -- Different Length
+2016-10-28 08:20:53 ATTENTION 8168 Thread-3 DEBUG:######## Stock:300381 Finished: Not Pass ########
+2016-10-28 08:20:54 ATTENTION 13296 Thread-2 DEBUG:Stock:300461 Not Pass -- Different Length
+2016-10-28 08:20:54 ATTENTION 13296 Thread-2 DEBUG:######## Stock:300461 Finished: Not Pass ########
+2016-10-28 08:20:54 ATTENTION 14056 Thread-1 DEBUG:Stock:300026 Not Pass -- Different Length
+2016-10-28 08:20:54 ATTENTION 14056 Thread-1 DEBUG:######## Stock:300026 Finished: Not Pass ########
+2016-10-28 08:20:55 ATTENTION 7040 Thread-4 DEBUG:Stock:300465 Not Pass -- Different Length
+2016-10-28 08:20:55 ATTENTION 7040 Thread-4 DEBUG:######## Stock:300465 Finished: Not Pass ########
+2016-10-28 08:20:56 ATTENTION 8168 Thread-3 DEBUG:Stock:300326 Not Pass -- Different Length
+2016-10-28 08:20:56 ATTENTION 8168 Thread-3 DEBUG:######## Stock:300326 Finished: Not Pass ########
+2016-10-28 08:20:56 ATTENTION 13296 Thread-2 DEBUG:Stock:300488 Not Pass -- Different Length
+2016-10-28 08:20:56 ATTENTION 13296 Thread-2 DEBUG:######## Stock:300488 Finished: Not Pass ########

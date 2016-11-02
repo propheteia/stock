@@ -1,0 +1,7 @@
+2016-10-28 00:48:02 ATTENTION 11764 Thread-8 DEBUG:######## Stock:600656 Finished: Network Problem ########
+2016-10-28 00:48:13 ATTENTION 10304 MainThread INFO:######## Start to Verified Failed Stock Once More
+2016-10-28 00:48:13 ATTENTION 10304 MainThread INFO:['600656']
+2016-10-28 00:48:16 ATTENTION 6484 Thread-14 DEBUG:######## Stock:600656 Finished: Network Problem ########
+2016-10-28 00:48:16 ATTENTION 10304 MainThread INFO:######## Start to Verified Failed Stock Once More
+2016-10-28 00:48:16 ATTENTION 10304 MainThread INFO:['600656']
+2016-10-28 00:48:18 ATTENTION 11340 Thread-27 DEBUG:######## Stock:600656 Finished: Network Problem ########

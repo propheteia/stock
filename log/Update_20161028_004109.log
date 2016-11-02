@@ -1,0 +1,5 @@
+2016-10-28 00:41:43 Verify 4248 MainThread INFO:######## Verify Result (Total 0 minutes)########
+2016-10-28 00:41:43 Verify 4248 MainThread INFO:Stock Passed:46
+2016-10-28 00:41:43 Verify 4248 MainThread INFO:Stock Not Passed:0
+2016-10-28 00:41:43 Verify 4248 MainThread INFO:Stock Not Passed Duo To Network:1
+2016-10-28 00:41:43 Verify 4248 MainThread INFO:['600656']

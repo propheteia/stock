@@ -1,0 +1,6 @@
+2016-10-28 04:09:23 Verify 5096 MainThread INFO:######## Verify Result (Total 25 minutes)########
+2016-10-28 04:09:23 Verify 5096 MainThread INFO:Stock Passed:2936
+2016-10-28 04:09:23 Verify 5096 MainThread INFO:Stock Not Passed:14
+2016-10-28 04:09:23 Verify 5096 MainThread INFO:['600661', '600748', '603885', '601238', '002080', '002141', '002597', '300426', '300381', '300461', '300465', '300026', '300326', '300488']
+2016-10-28 04:09:23 Verify 5096 MainThread INFO:Stock Not Passed Duo To Network:1
+2016-10-28 04:09:23 Verify 5096 MainThread INFO:['600656']

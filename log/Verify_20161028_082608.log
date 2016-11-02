@@ -1,0 +1,5 @@
+2016-10-28 08:28:06 Verify 13600 MainThread INFO:######## Verify Result (Total 0 minutes)########
+2016-10-28 08:28:06 Verify 13600 MainThread INFO:Stock Passed:0
+2016-10-28 08:28:06 Verify 13600 MainThread INFO:Stock Not Passed:14
+2016-10-28 08:28:06 Verify 13600 MainThread INFO:['603885', '601238', '600748', '600661', '002080', '002141', '002597', '300426', '300381', '300461', '300465', '300326', '300026', '300488']
+2016-10-28 08:28:06 Verify 13600 MainThread INFO:Stock Not Passed Duo To Network:0

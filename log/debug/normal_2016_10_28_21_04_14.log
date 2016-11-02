@@ -1,0 +1,37 @@
+2016-10-28 21:04:16 NORMAL 12284 MainThread DEBUG:############### connected to database ######################
+2016-10-28 21:04:24 NORMAL 7772 Thread-1 DEBUG:######## Stock:600000 Start to Update ########
+2016-10-28 21:04:24 NORMAL 1072 Thread-2 DEBUG:######## Stock:600079 Start to Update ########
+2016-10-28 21:04:24 NORMAL 5828 Thread-3 DEBUG:######## Stock:600149 Start to Update ########
+2016-10-28 21:04:24 NORMAL 11776 Thread-4 DEBUG:######## Stock:600219 Start to Update ########
+2016-10-28 21:04:24 NORMAL 11756 Thread-5 DEBUG:######## Stock:600289 Start to Update ########
+2016-10-28 21:04:24 NORMAL 11976 Thread-6 DEBUG:######## Stock:600362 Start to Update ########
+2016-10-28 21:04:24 NORMAL 9292 Thread-7 DEBUG:######## Stock:600452 Start to Update ########
+2016-10-28 21:04:24 NORMAL 10136 Thread-8 DEBUG:######## Stock:600530 Start to Update ########
+2016-10-28 21:04:24 NORMAL 12144 Thread-9 DEBUG:######## Stock:600601 Start to Update ########
+2016-10-28 21:04:24 NORMAL 11988 Thread-10 DEBUG:######## Stock:600666 Start to Update ########
+2016-10-28 21:04:24 NORMAL 9852 Thread-11 DEBUG:######## Stock:600730 Start to Update ########
+2016-10-28 21:04:24 NORMAL 1220 Thread-12 DEBUG:######## Stock:600794 Start to Update ########
+2016-10-28 21:04:24 NORMAL 7772 Thread-1 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 1072 Thread-2 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 5828 Thread-3 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 11776 Thread-4 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 11756 Thread-5 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 11976 Thread-6 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 9292 Thread-7 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 10136 Thread-8 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 12144 Thread-9 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 11988 Thread-10 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 9852 Thread-11 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 1220 Thread-12 DEBUG:Last:2016-10-27 -- Now:2016-10-28
+2016-10-28 21:04:24 NORMAL 7772 Thread-1 DEBUG:Stock:600000 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 1072 Thread-2 DEBUG:Stock:600079 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 5828 Thread-3 DEBUG:Stock:600149 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 11776 Thread-4 DEBUG:Stock:600219 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 11756 Thread-5 DEBUG:Stock:600289 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 11976 Thread-6 DEBUG:Stock:600362 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 9292 Thread-7 DEBUG:Stock:600452 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 10136 Thread-8 DEBUG:Stock:600530 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 12144 Thread-9 DEBUG:Stock:600601 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 11988 Thread-10 DEBUG:Stock:600666 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 9852 Thread-11 DEBUG:Stock:600730 Getting Stock Data From Tushare
+2016-10-28 21:04:24 NORMAL 1220 Thread-12 DEBUG:Stock:600794 Getting Stock Data From Tushare
